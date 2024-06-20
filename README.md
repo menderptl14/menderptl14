@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahendra Kumar Patel</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **node js**
+- 🔭 I’m currently working on **Backend in node js**
 
-- 🌱 I’m currently learning **aws,machine-learning**
+- 🌱 I’m currently learning **machine-learning,deep-learning, generative-AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/menderptl14](https://github.com/menderptl14)
 
