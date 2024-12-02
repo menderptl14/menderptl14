@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahendra Kumar Patel</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **Backend in node js**
+- 🔭 I’m currently working on **Data-Science-field**
 
 - 🌱 I’m currently learning **machine-learning,deep-learning, generative-AI**
 
